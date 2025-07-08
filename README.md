@@ -89,7 +89,7 @@ SafeGuard/
 
 1.  **Clone the repository:**
     ```sh
-    git clone https://github.com/mshiveshm/SafeGuard.git
+    git clone https://github.com/Laibanoor92/SafeGuard.git
     cd SafeGuard
     ```
 
